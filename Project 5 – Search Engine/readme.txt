@@ -1,0 +1,1 @@
+For this final project, I create a customizable search engine that builds off all of my previous projects. My project uses multi-threading, an inverted index, servlets, sockets, cookies, Jetty, HTTP, HTML, JDBC, and SQL. 

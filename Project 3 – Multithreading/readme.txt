@@ -1,0 +1,1 @@
+For this project, I extend my previous project to support multithreading. This inverted index data structure is thread-safe by using a custom lock class that allows multiple read operations and exclusive write operations. The building and searching of the inverted index are multithreaded by using a work queue and thread pool.
